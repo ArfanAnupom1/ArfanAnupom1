@@ -1,4 +1,4 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="https://i.ibb.co/Hz3mqmH/Capture.png" alt="Mokkapps GitHub README header image">
 <p>
   <a href="https://www.x.com/ArfanAnupom">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
