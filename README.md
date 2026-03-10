@@ -35,7 +35,9 @@ I'm a passionate web developer with expertise in both frontend and backend devel
 - 🔭 I’m currently working on various web development projects.
 - 🌱 I’m always eager to learn and explore new technologies.
 - 💬 Ask me about React, Tailwind CSS, Node.js, and MongoDB.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arfanul-haque/) | [Twitter](https://www.x.com/ArfanAnupom) | [Instagram](https://www.instagram.com/arfan.anupom/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arfanul-haque/) | [Twitter](https://www.x.com/ArfanAnupom) | [Instagram](https://www.instagram.com/arfan.anupom/) | [portfolio](https://simple-firebase-7935b.web.app/)
+
+##
 
 ## :chart_with_upwards_trend: Current Stats
 <br />
