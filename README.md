@@ -15,9 +15,7 @@
   <a href="https://medium.com/@MokkappsDev">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
   </a> 
-  <a href="https://dev.to/arfan.anupom">
-    <img src="https://simple-firebase-7935b.web.app/" height=25>
-  </a>
+
 </p>
 <br />
 
